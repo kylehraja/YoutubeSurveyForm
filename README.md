@@ -1,4 +1,4 @@
-# YoutubeSurveyForm
+# Youtube Survey Form
 Fill out a quick survey about Youtube. Built using HTML &amp; CSS.
 
 ![image](https://github.com/kylehraja/YoutubeSurveyForm/assets/140476247/7f6436b1-b54e-40b1-9aa0-0f4e5c9e6e0b)
